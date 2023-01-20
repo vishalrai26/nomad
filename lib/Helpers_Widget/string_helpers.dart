@@ -33,7 +33,7 @@ class AppString {
   static const getStarted = 'get started';
   static const enterEmail = 'enter email';
   static const travelEasy = 'travel easy';
-  static const authHeader = 'enter phone number OR email';
+  static const authHeader = 'enter phone number or email';
   static const budgetTypically = 'what’s your budget typically?';
   static const likeEat = 'what do you like to eat?';
   static const cuisineMeal = 'cuisines, meals, and restaurants';
